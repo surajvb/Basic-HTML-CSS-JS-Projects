@@ -1,0 +1,35 @@
+body{
+    
+    background: url("../images/gym.jpeg")
+    no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Risque', cursive;
+}
+
+div{
+    background-color: cadetblue;
+    width: 60%;
+    text-align: center;
+    border-radius: 25px;
+    margin: 200px auto;
+    opacity: 0.8;
+    
+}
+
+button{
+    padding: 10px;
+    background-color: aliceblue;
+    text-align: center;
+    border-radius: 15px;
+    font-size: 2em;
+    color: black;
+}
+
+h1{
+    margin:10px auto;
+    font-size: 4em;
+}
+
+h4{
+    font-size: 2em;
+}

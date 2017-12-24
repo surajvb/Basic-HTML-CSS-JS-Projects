@@ -1,0 +1,40 @@
+video{
+    position:fixed;
+    top: 50%;
+    left: 50%;
+    margin-top:-50%;
+    margin-left:-50%;
+    z-index: 1;     /*to get the text on video*/
+}
+
+a{
+    display: inline-block;
+    padding: 10px;
+    text-decoration: none;
+    color: azure;
+    border: solid 4px white;
+    
+}
+
+div{
+    
+    position: relative;
+    z-index: 2;
+    max-width: 720px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+h1{
+    margin-bottom: 10px;
+    font-size: 30px;
+    color:white;
+    opacity:10;
+}
+p{  
+    color: black;
+    font-family: sans-serif;
+    background-color: cornsilk;
+    opacity: 0.6;
+}
