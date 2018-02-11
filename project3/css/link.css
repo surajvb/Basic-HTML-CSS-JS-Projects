@@ -1,0 +1,22 @@
+body{
+    background-color:aliceblue;
+}
+
+a:link, a:visited{
+    background-color:aquamarine;
+    padding: 15px 25px;
+    display: inline-block;
+    color: blueviolet;
+    text-align: center;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: burlywood;
+    color: black;
+}
+
+a:active{
+    background-color: green;
+    color: aliceblue;
+}

@@ -1,0 +1,26 @@
+1. Global Variables (minimal)
+================
+	var dashboard = {};
+2. Namespacing 
+
+3. Variables -- Naming Conventions 
+	var 
+	var myName;
+	var isLoggedIn = true;
+	var arePremiumUsers = false;
+	const PI = 3.14;
+	
+	Local variables
+	-----------------
+		var _myData = {}
+		
+	
+4. Function - Naming Conventions
+	function getProfileData(){}
+	function setProfileData(){}
+
+	Classes
+	========
+		function Car(){}
+
+5. Write code comments

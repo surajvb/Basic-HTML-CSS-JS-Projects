@@ -1,0 +1,11 @@
+.red{
+    color: red;
+}
+
+button{
+    
+    width: 200px;
+    height: 50px;
+    border-radius: 25px;
+    background-color:red;
+}
